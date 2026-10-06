@@ -9,7 +9,7 @@ A colourful, illuminated-manuscript-styled website presenting the King James Ver
 
 Once published with GitHub Pages, your site will be available at:
 
-**https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPO-NAME/**
+**https://github.com/ivanbarties-coder/Illuminated-Bible**
 
 (Replace `YOUR-GITHUB-USERNAME` and `YOUR-REPO-NAME` above once you know them, or tell me and I'll fill this in for you.)
 
